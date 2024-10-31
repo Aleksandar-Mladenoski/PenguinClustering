@@ -1,4 +1,4 @@
-### `README.md` Content
+### `README.md`
 
 # Penguin Clustering Analysis
 
