@@ -1,5 +1,3 @@
-### `README.md`
-
 # Penguin Clustering Analysis
 
 This repository contains my solution for a clustering analysis project on penguin species. The project is part of a DataCamp course on Unsupervised Machine Learning, where we utilize clustering techniques to explore and categorize penguin data without labeled species information.
